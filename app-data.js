@@ -8,7 +8,7 @@ const STORAGE_KEY = 'township_slots_v1';
 
 const SEED_BUSINESSES = [
   { id: 'b1', name: "Mama Joy's Kitchen", category: 'Home-cooked meals', area: 'Khayelitsha', icon: '🍲', openTime: '08:00', closeTime: '18:00', phone: '071 234 5678' },
-  { id: 'b2', name: 'Sbu Fades Barbershop', category: 'Barber', area: 'Soweto', icon: '💈', openTime: '09:00', closeTime: '19:00', phone: '082 345 6789' },
+  { id: 'b2', name: 'Sbu Fades Barbershop', category: 'Barber', area: 'Olieven', icon: '💈', openTime: '09:00', closeTime: '19:00', phone: '082 345 6789' },
   { id: 'b3', name: 'Thandi Braids & Beauty', category: 'Hair & beauty', area: 'Umlazi', icon: '💇🏾‍♀️', openTime: '08:00', closeTime: '17:00', phone: '073 456 7890' },
   { id: 'b4', name: 'Vusi Tyre & Repair', category: 'Mechanic', area: 'Mamelodi', icon: '🔧', openTime: '07:30', closeTime: '17:30', phone: '084 567 8901' },
   { id: 'b5', name: 'Nokuthula Spaza Shop', category: 'Spaza shop', area: 'Tembisa', icon: '🛒', openTime: '06:00', closeTime: '20:00', phone: '076 678 9012' },
